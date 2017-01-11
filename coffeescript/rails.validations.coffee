@@ -1,9 +1,3 @@
-###!
- * Client Side Validations - v<%= ClientSideValidations::VERSION %> (https://github.com/DavyJonesLocker/client_side_validations)
- * Copyright (c) <%= DateTime.now.year %> Geremia Taglialatela, Brian Cardarella
- * Licensed under MIT (http://opensource.org/licenses/mit-license.php)
-###
-
 $ = jQuery
 $.fn.disableClientSideValidations = ->
   ClientSideValidations.disable(@)

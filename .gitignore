@@ -1,0 +1,13 @@
+*.gem
+.bundle
+*.lock
+pkg/*
+tags
+test/generators/tmp/*
+*.swp
+.*rc
+bundler_stubs/*
+binstubs/*
+bin/*
+coverage
+test/log
